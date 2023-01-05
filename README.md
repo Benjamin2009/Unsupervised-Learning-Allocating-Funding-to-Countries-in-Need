@@ -1,9 +1,19 @@
 ![](https://raw.githubusercontent.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/main/HELP_International.jpeg)
 
-# Unsupervised Learning: Allocating Funding to Countries in Need
+## Unsupervised Learning: Allocating Funding to Countries in Need
 
-HELP International is an international humanitarian NGO that is committed to fighting poverty and providing the people of backward countries with basic amenities and relief during the time of disasters and natural calamities. 
+### Problem Description
+[**HELP International**](https://help-international.org/) is an international humanitarian NGO that is committed to fighting poverty and providing the people of backward countries with basic amenities and relief during time of disasters and natural calamities. **HELP International** has been able to raise around $ 10 million. To use this money strategically and effectively, the CEO has to make a decision to focus on the countries that are in the direst need of aid.  
 
-HELP International has been able to raise around $10 million. To use this money strategically and effectively, the CEO has to make decision to focus on the countries that are in the direst need of aid.
- 
-The goal of this project is to use unsupervised learning to categorize the countries based on some socioeconomic and health factors that determine the overall development of the country. Then we need to suggest the countries which the CEO needs to focus on the most.
+### Goal
+The **goal** of this project is to use unsupervised learning to categorize the countries based on some socioeconomic and health factors that determine the overall development of the country. At the end, we need to provide the CEO with a list of countries to focus on.
+
+### Dataset
+
+The dataset and its data dictionary are available on [Kaggle](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data). 
+
+---
+
+Please read the notebook:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/blob/main/Unsupervised%20Learning-Allocating%20Funding%20to%20Countries%20in%20Need.ipynb#title-four)
