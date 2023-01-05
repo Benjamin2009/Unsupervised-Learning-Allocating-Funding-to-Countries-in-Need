@@ -12,4 +12,4 @@ The goal of this project is to use unsupervised learning to categorize the count
 
 Please read the notebook:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/blob/main/Unsupervised%20Learning-Allocating%20Funding%20to%20Countries%20in%20Need.ipynb#title-four)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/blob/main/Unsupervised%20Learning-Allocating%20Funding%20to%20Countries%20in%20Need.ipynb)
