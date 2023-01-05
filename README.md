@@ -1,3 +1,5 @@
+<base target="_blank">
+
 ![](https://raw.githubusercontent.com/Benjamin2009/Unsupervised-Learning-Allocating-Funding-to-Countries-in-Need/main/HELP_International.jpeg)
 
 ## Unsupervised Learning: Allocating Funding to Countries in Need
